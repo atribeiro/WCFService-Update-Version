@@ -1,0 +1,16 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\Anabela\SkyDrive\Documents\PeopleService\">
+    <file relUrl="bin/People.dll.config" publishTime="10/04/2014 07:17:55" />
+    <file relUrl="PeopleServiceLib.PeopleService.svc" publishTime="10/27/2014 20:47:47" />
+    <file relUrl="bin/People.pdb" publishTime="10/27/2014 20:47:24" />
+    <file relUrl="Web.config" publishTime="10/04/2014 07:17:55" />
+    <file relUrl="bin/People.dll" publishTime="10/27/2014 20:47:24" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\Anabela\SkyDrive\Documents\">
+    <file relUrl="bin/People.dll.config" publishTime="10/04/2014 07:17:55" />
+    <file relUrl="PeopleServiceLib.PeopleService.svc" publishTime="10/27/2014 20:36:24" />
+    <file relUrl="bin/People.pdb" publishTime="10/04/2014 07:30:54" />
+    <file relUrl="Web.config" publishTime="10/04/2014 07:17:55" />
+    <file relUrl="bin/People.dll" publishTime="10/04/2014 07:30:55" />
+  </publishTarget>
+</publishData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5befe24b-4f01-4951-a45f-f10c117386c7" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/PeopleServiceLib/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="PeopleService.wsdl" MetadataType="Wsdl" ID="f30c7711-ca9f-43f2-b01e-1adabed76750" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/PeopleServiceLib/?wsdl" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="9bc9a0cd-c64a-4fff-b1e7-09cec00d0b77" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/PeopleServiceLib/?xsd=xsd1" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="cc792744-0b86-434c-92c2-7eec72393047" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/PeopleServiceLib/?xsd=xsd0" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="c279329f-e856-42a5-a887-743612e67ab6" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/PeopleServiceLib/?xsd=xsd2" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="5eef8341-88c8-4e43-820b-871618f0d4a9" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/PeopleServiceLib/?disco" />
+    <MetadataFile FileName="item.wsdl" MetadataType="Wsdl" ID="12e69840-3708-424b-9c62-0255530b55db" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/PeopleServiceLib/?wsdl=wsdl0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

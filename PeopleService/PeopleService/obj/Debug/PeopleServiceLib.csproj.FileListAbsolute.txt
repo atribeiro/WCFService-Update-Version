@@ -1,0 +1,12 @@
+C:\Users\Anabela\Documents\Visual Studio 2012\Projects\PeopleService\PeopleService\obj\Debug\PeopleServiceLib.csprojResolveAssemblyReference.cache
+C:\Users\Anabela\Documents\Visual Studio 2012\Projects\PeopleService\PeopleService\obj\Debug\People.dll
+C:\Users\Anabela\Documents\Visual Studio 2012\Projects\PeopleService\PeopleService\obj\Debug\People.pdb
+C:\Users\Anabela\Documents\Visual Studio 2012\Projects\PeopleService\PeopleService\bin\Debug\People.dll.config
+C:\Users\Anabela\Documents\Visual Studio 2012\Projects\PeopleService\PeopleService\bin\Debug\People.dll
+C:\Users\Anabela\Documents\Visual Studio 2012\Projects\PeopleService\PeopleService\bin\Debug\People.pdb
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\PeopleService\obj\Debug\People.dll
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\PeopleService\obj\Debug\People.pdb
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\PeopleService\bin\Debug\People.dll.config
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\PeopleService\bin\Debug\People.dll
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\PeopleService\bin\Debug\People.pdb
+C:\Users\Anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\PeopleService\obj\Debug\PeopleServiceLib.csprojResolveAssemblyReference.cache

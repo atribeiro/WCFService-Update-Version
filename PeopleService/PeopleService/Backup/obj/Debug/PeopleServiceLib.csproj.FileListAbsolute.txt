@@ -1,0 +1,6 @@
+C:\Users\Anabela\Documents\GitHub\WCFService\PeopleService\PeopleService\Backup\bin\Debug\People.dll.config
+C:\Users\Anabela\Documents\GitHub\WCFService\PeopleService\PeopleService\Backup\bin\Debug\People.dll
+C:\Users\Anabela\Documents\GitHub\WCFService\PeopleService\PeopleService\Backup\bin\Debug\People.pdb
+C:\Users\Anabela\Documents\GitHub\WCFService\PeopleService\PeopleService\Backup\obj\Debug\PeopleServiceLib.csprojResolveAssemblyReference.cache
+C:\Users\Anabela\Documents\GitHub\WCFService\PeopleService\PeopleService\Backup\obj\Debug\People.dll
+C:\Users\Anabela\Documents\GitHub\WCFService\PeopleService\PeopleService\Backup\obj\Debug\People.pdb

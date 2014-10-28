@@ -1,0 +1,83 @@
+﻿Installing assembly 'C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+   logtoconsole = 
+Installing service PeopleWindowsService...
+Creating EventLog source PeopleWindowsService in log Application...
+Rolling back assembly 'C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+   logtoconsole = 
+Restoring event log to previous state for source PeopleWindowsService.
+Uninstalling assembly 'C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Removing EventLog source PeopleWindowsService.
+Service PeopleWindowsService is being removed from the system...
+Service PeopleWindowsService was successfully removed from the system.
+Installing assembly 'C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+   logtoconsole = 
+Installing service PeopleWindowsService...
+Creating EventLog source PeopleWindowsService in log Application...
+Rolling back assembly 'C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+   logtoconsole = 
+Restoring event log to previous state for source PeopleWindowsService.
+Installing assembly 'C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+   logtoconsole = 
+Installing service PeopleWindowsService...
+Creating EventLog source PeopleWindowsService in log Application...
+Rolling back assembly 'C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+   logtoconsole = 
+Restoring event log to previous state for source PeopleWindowsService.
+Installing assembly 'C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+   logtoconsole = 
+Installing service PeopleWindowsService...
+Service PeopleWindowsService has been successfully installed.
+Creating EventLog source PeopleWindowsService in log Application...
+Committing assembly 'C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\Anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+   logtoconsole = 
+Installing service PeopleWindowsService...
+Service PeopleWindowsService has been successfully installed.
+Creating EventLog source PeopleWindowsService in log Application...
+Committing assembly 'C:\Users\Anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = C:\Users\Anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+   logtoconsole = 

@@ -1,0 +1,12 @@
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\WindowsServiceHost.pdb
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\People.dll
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\bin\Debug\People.pdb
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\obj\Debug\WindowsServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\obj\Debug\WindowsServiceHost.ProjectInstaller.resources
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\obj\Debug\WindowsServiceHost.csproj.GenerateResource.Cache
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\obj\Debug\WindowsServiceHost.exe
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\obj\Debug\WindowsServiceHost.pdb
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\WindowsServiceHost\obj\Debug\WindowsServiceHost.exe
+C:\Users\anabela\Documents\GitHub\WCFService-Update-Version\WindowsServiceHost\obj\Debug\WindowsServiceHost.pdb
+C:\Users\Anabela\Documents\GitHub\WCFService-Update-Version\PeopleService\WindowsServiceHost\obj\Debug\WindowsServiceHost.PeopleWindowsService.resources
